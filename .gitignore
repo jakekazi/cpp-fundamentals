@@ -1,4 +1,28 @@
+# ------------------------
+# C++ compiled files
+# ------------------------
 *.o
 *.out
 *.exe
+sum_of_n
+
+# ------------------------
+# macOS system files
+# ------------------------
 .DS_Store
+.AppleDouble
+.LSOverride
+
+# ------------------------
+# Editor backup and temp files
+# ------------------------
+*~
+*.swp
+*.swo
+*.tmp
+*.log
+
+# ------------------------
+# Optional: IDE/project folders
+# ------------------------
+.vscode/
